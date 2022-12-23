@@ -12,7 +12,7 @@ const Header = () => {
     <header className="px-4 py-5 bg-zinc-200 border-b">
       <div className="md:flex md:justify-between">
         <h2 className="inline bg-gradient-to-r from-yellow-500 via-yellow-700 to-indigo-500 bg-clip-text font-display text-5xl tracking-tight text-transparent font-bold">
-          Panel de Adiministrador
+          Panel de Administrador
         </h2>
         <div className="flex flex-col md:flex-row items-center gap-4 shadow-">
           <input
